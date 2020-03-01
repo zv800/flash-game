@@ -1,11 +1,13 @@
-h1 { 
-      background-color: #D0E4F5;
+<style>
+body {
+background-color: #D0E4F5;
 background-image: url("https://www.thesun.co.uk/wp-content/uploads/2019/10/NINTCHDBPICT000483915170.jpg");
 background-repeat: no-repeat;
 background-attachment: scroll;
-background-position: 0 0; 
- } 
-   
-.css1 { 
-    
- } 
+background-position: 0 0;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
